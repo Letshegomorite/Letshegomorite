@@ -31,8 +31,7 @@ Welcome to my GitHub profile! I'm an IT professional passionate about building h
 - **NoSQL Databases**: MongoDB | Firebase  
 
 
-## 📌 What I'm Working On  
-- 🚀 **Building an IT company** specializing in [mention your niche, e.g., software solutions, cybersecurity, AI, etc.]  
+## 📌 What I'm Working On    
 - 🛠️ **Developing robust, high-quality software solutions**  
 - 🏗️ **Improving automation in software testing & quality assurance**  
 - 📖 **Exploring AI & Machine Learning for software optimization**  
